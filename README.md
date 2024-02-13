@@ -2,7 +2,7 @@
 
 Adding features and metrics to Farcaster users and channels, so that we can come up with stronger labels and queries for use in analytics and applications. See all data in [this Dune dashboard](https://dune.com/ilemi/farcaster-explorer).
 
->*This repo was created [using this template](https://github.com/duneanalytics/DuneQueryRepo) to [manage your Dune queries](https://dune.mintlify.app/api-reference/crud/endpoint/create) and any [CSVs as Dune tables](https://dune.mintlify.app/api-reference/upload/endpoint/upload).*
+>*This repo was created [using this template](https://github.com/duneanalytics/DuneQueryRepo), made to [manage your Dune queries](https://dune.mintlify.app/api-reference/crud/endpoint/create) and any [CSVs as Dune tables](https://dune.mintlify.app/api-reference/upload/endpoint/upload).*
 
 ### For Contributors
 
