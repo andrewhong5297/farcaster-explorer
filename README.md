@@ -6,14 +6,6 @@ Adding features and metrics to Farcaster users and channels, so that we can come
 
 ### For Contributors
 
-I've set up four types of issues right now:
-- `bugs`: This is for data quality issues like miscalculations or broken queries.
-- `chart improvements`: This is for suggesting improvements to the visualizations.
-- `query improvements`: This is for suggesting improvements to the query itself, such as adding an extra column or table that enhances the results.
-- `generic questions`: This is a catch all for other questions or suggestions you may have about the dashboard.
-
-If you want to contribute, either start an issue or go directly into making a PR (using the same labels as above). Once the PR is merged, the queries will get updated in the frontend.
-
 The best contributions you can make right now is adding to the user or channel tier methodology. Currently, those are defined in queries [3418042](https://dune.com/queries/3418402/5739663) and [3418331](https://dune.com/queries/3418331/5739528) respectively. The tiers are as follows:
 
 **User Tiers:**
@@ -31,6 +23,16 @@ The best contributions you can make right now is adding to the user or channel t
 - **👑 stadium:** 250+ casts, 100,000+ engagement score, 10+ influencers/vips
 
 Where engagement score is `[likes + recasts*3 + replies*10]`
+
+---
+
+I've set up four types of issues right now:
+- `bugs`: This is for data quality issues like miscalculations or broken queries.
+- `chart improvements`: This is for suggesting improvements to the visualizations.
+- `query improvements`: This is for suggesting improvements to the query itself, such as adding an extra column or table that enhances the results.
+- `generic questions`: This is a catch all for other questions or suggestions you may have about the dashboard.
+
+If you want to contribute, either start an issue or go directly into making a PR (using the same labels as above). Once the PR is merged, the queries will get updated in the frontend.
 
 ### Query Management Scripts
 
